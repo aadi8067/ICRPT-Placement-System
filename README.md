@@ -9,9 +9,6 @@
 ## 👨‍💻 Developed By:
 
 - **Aditya Arun Dhakane** (400463)
-- **Kalyani Hemant Bangar** (400455)
-- **Shraddha Punjaram Gaidhani** (400467)
-- **Ashwini Ashok Salunke** (400498)
 
 > Under the guidance of **Mr. S.H. Sangale**, Lecturer, K.K. Wagh Polytechnic, Nashik  
 > **Academic Year:** 2023–24
