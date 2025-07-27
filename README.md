@@ -2,6 +2,8 @@
 
 > A holistic approach to campus recruitment and student profile analysis for placement.
 
+📥 [Download supporting files and build project from here](https://drive.google.com/drive/folders/1PN6_R3LWkOsUM34aaUsIbKl0sHXoYpBb?usp=sharing)
+
 ---
 
 ## 👨‍💻 Developed By:
