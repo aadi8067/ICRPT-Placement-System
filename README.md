@@ -35,6 +35,7 @@ It promotes **transparent**, **data-driven** recruitment that supports **career 
 ---
 
 ## 🧩 System Modules
+![Sys Arc](image.png)
 
 ### 👩‍🎓 Student Module
 - Register/Login
@@ -64,7 +65,8 @@ It promotes **transparent**, **data-driven** recruitment that supports **career 
 
 This project includes screenshots of:
 - Home page
-- Login & dashboard views for Admin, Student, and HR
+    ![homepg](image-1.png)
+- Login & dashboard views for Admin, Student, and TPO
 - Job listing & application
 - Resume upload and profile update
 - Aptitude test and results
