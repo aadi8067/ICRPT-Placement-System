@@ -70,7 +70,7 @@ This project includes screenshots of:
 - Resume upload and profile update
 - Aptitude test and results
 
-📁 See `/screenshots` folder for UI images.
+📁 See `WorkingpptCP04_Seminar2_ICRPT` ppt for UI images.
 
 ---
 
